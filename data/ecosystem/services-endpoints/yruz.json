@@ -1,0 +1,8 @@
+{
+  "name": "YRUZ",
+  "description": "269 x402 v1/v2 APIs on Solana or Base: crypto prices, Solana token rug check, web to Markdown, domain intel",
+  "url": "https://yruz.one/x402.php",
+  "category": "services-endpoints",
+  "logo": "/logos/yruz.png",
+  "tags": ["crypto", "solana", "base", "web-scraping", "domain", "seo", "utilities", "x402-v1", "x402-v2"]
+}

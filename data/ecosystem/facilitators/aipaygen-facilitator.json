@@ -1,0 +1,7 @@
+{
+  "name": "AIPayGen Facilitator",
+  "description": "Free, non-custodial x402 facilitator for USDC on Base and Base Sepolia. Gasless for merchants: settles from its own fee wallet or routes to PayAI or Coinbase CDP with failover.",
+  "url": "https://aipaygen.com/merchants",
+  "category": "facilitators",
+  "logo": null
+}
